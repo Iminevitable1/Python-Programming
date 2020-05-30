@@ -1,0 +1,8 @@
+print("Hello World")
+#print("Hello Again")
+print("I like this")
+#print("Yay! printing")
+print("This is fun")
+print("Don't touch this")
+#print("Don't say a word")
+#print("This is the 1st exercise.")
