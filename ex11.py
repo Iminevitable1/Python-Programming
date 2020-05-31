@@ -1,4 +1,4 @@
-print("What type of watch you wear ?", end=' ')
+print("What type of watch do you wear ?", end=' ')
 watch = input()
 
 print("What is your name ?", end=' ')
